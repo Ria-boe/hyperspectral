@@ -2,7 +2,9 @@
 """
 Created on Wed Feb  5 11:44:33 2025
 
-@author: mabo6137
+@author: Marianne Böhm
+
+Used to reshape a spectral library published as a csv file (https://doi.org/10.1016/j.ecoinf.2024.102772) to open it in ENVI (to import as ASCII file) or EnMapBox (as GEOJSON).
 """
 
 import pandas as pd
